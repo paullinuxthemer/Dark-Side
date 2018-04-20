@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4.2333332 4.2333335" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient3856-2-5" y2="499.38" gradientUnits="userSpaceOnUse" x2="399.09" gradientTransform="matrix(1.1378 0 0 1.1378 -394.34 -838.73)" y1="514.38" x1="399.09">
+   <stop stop-color="#1d60c4" offset="0"/>
+   <stop stop-color="#1d60c4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -292.77)">
+  <g id="checkbox-mixed" transform="matrix(.21614 0 0 .21614 -11.011 351.51)">
+   <rect rx="0" ry="0" height="17.067" width="17.067" y="-270.5" x="52.169" fill="none"/>
+   <g>
+    <rect rx="3.4844" ry="3.4844" height="17.067" width="17.067" y="-270.57" x="52.24" fill="url(#linearGradient3856-2-5)"/>
+    <rect rx="3.0199" ry="3.0199" height="14.791" width="14.791" y="-269.43" x="53.378" fill="#206ad9"/>
+    <rect opacity=".2" rx="1.2912" ry="1.12" height="2.24" width="10.667" y="-262.35" x="55.44"/>
+    <rect rx="1.2912" ry="1.12" height="2.24" width="10.667" y="-263.15" x="55.44" fill="#e9f1fc"/>
+   </g>
+  </g>
+ </g>
+</svg>

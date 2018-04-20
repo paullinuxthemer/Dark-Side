@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8.466667 8.4666669" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -288.53)">
+  <g transform="matrix(2 0 0 1.9976 .0000066439 -296.28)">
+   <rect rx="0" ry="0" height="3.6887" width="3.6887" y="293.05" x=".26458" fill="none"/>
+   <rect opacity=".3" rx=".75311" ry=".75311" height="3.6887" width="3.6887" y="293.03" x=".28003" fill="#fff"/>
+   <rect opacity=".3" rx=".65270" ry=".65270" height="3.1969" width="3.1969" y="293.28" x=".52594" fill="#fff"/>
+   <rect opacity=".2" rx=".27908" ry=".24207" height=".48414" width="2.3054" y="294.81" x=".97167"/>
+   <rect rx=".27908" ry=".24207" height=".48414" width="2.3054" y="294.63" x=".97167" fill="#206ad9"/>
+  </g>
+ </g>
+</svg>
