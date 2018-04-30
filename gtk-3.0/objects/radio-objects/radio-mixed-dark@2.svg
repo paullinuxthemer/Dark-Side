@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 8.466667 8.4666669">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.9999 0 0 1.9996 .0010224 .0056203)">
+  <rect rx="0" ry="0" height="3.6984" width="3.7042" y=".26182" x=".26414" stroke-width=".21687" fill="none"/>
+  <path d="m2.1161 3.7355c-0.89501 0-1.6206-0.72441-1.6206-1.618 0-0.89361 0.72554-1.618 1.6206-1.618 0.89501 0 1.6206 0.72441 1.6206 1.618 0 0.89361-0.72554 1.618-1.6206 1.618z" stroke-width=".23134" fill="#fff"/>
+  <g stroke-width="1.0667" transform="matrix(.21704 0 0 .2167 -15.71 58.89)">
+   <path d="m82.133-270.52c-4.7128 0-8.5333 3.8205-8.5333 8.5333s3.8205 8.5333 8.5333 8.5333 8.5333-3.8205 8.5333-8.5333-3.8205-8.5333-8.5333-8.5333z" fill="#206ad9"/>
+   <path opacity=".05" d="m82.133-270.52c-4.7128 0-8.5333 3.8205-8.5333 8.5333s3.8205 8.5333 8.5333 8.5333 8.5333-3.8205 8.5333-8.5333-3.8205-8.5333-8.5333-8.5333zm0 1.0667c4.1237 0 7.4667 3.3429 7.4667 7.4667 0 4.1237-3.3429 7.4667-7.4667 7.4667-4.1237 0-7.4667-3.3429-7.4667-7.4667 0-4.1237 3.3429-7.4667 7.4667-7.4667z" fill="#206ad9"/>
+   <path opacity=".1" d="m82.133-270.52c-4.7128 0-8.5333 3.8205-8.5333 8.5333 0 0.17997 0.01611 0.35613 0.02708 0.53334 0.27654-4.4632 3.9734-8 8.5062-8 4.5329 0 8.2297 3.5368 8.5062 8 0.01098-0.17721 0.02708-0.35337 0.02708-0.53334 0-4.7128-3.8205-8.5333-8.5333-8.5333z"/>
+  </g>
+  <rect opacity=".2" rx=".28024" ry=".2427" height=".48541" width="2.3152" y="2.0474" x=".95867" stroke-width=".21687"/>
+  <rect rx=".28024" ry=".2427" height=".48541" width="2.3152" y="1.8741" x=".95867" stroke-width=".21687" fill="#1a1a1a"/>
+ </g>
+</svg>
