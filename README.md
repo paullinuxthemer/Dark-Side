@@ -28,3 +28,7 @@ ArchLinux:
 
 Extract and put it into the themes directory i.e. ~/.themes/ or /usr/share/themes/ (create it if necessary).Then change the theme via distribution specific tool like Gnome tweak tool or Unity tweak tool, etc. (If you use Snap-packages instead of app's from the normal repositories than definitely put the theme to /usr/share/themes/.
 
+Original theme on which this theme is build upon: the Arc theme (by Horst3180)
+https://github.com/horst3180/arc-theme
+
+License: GPLv3
